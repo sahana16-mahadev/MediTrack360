@@ -1,0 +1,21 @@
+{
+  "name": "MediTrack 360 - Smart Medicine Expiry & Stock Tracker",
+  "short_name": "MediTrack 360",
+  "description": "Smart medicine expiry tracking and stock management designed for small clinics and rural pharmacies.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090e17",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
